@@ -1,13 +1,11 @@
 ![GitHub Cards Preview](https://github.com/sameersyd/Expenso/blob/main/art/EXPENSO_COVER.png?raw=true)
 
 # Expenso
-A Simple Expense Tracker App 📱 built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture 🏗. *Made with love ❤️ by [Sameer Nawaz](https://github.com/sameersyd)*
+A Simple Expense Tracker App 📱 built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture 🏗.
 
 <br />
 
 ## UI Design 🎨
-
-The UI/UX for this Expenso App was designed by <a href="https://github.com/Spikeysanju">@Spikeysanju</a>
 
 ***Click to View Expenso app Design from below 👇***
 
@@ -62,42 +60,3 @@ Dashboard | Face & Touch ID | All Income | All Expense | Add Transaction
 
 
 <br />
-
-## Ohh You want Android App Too? 📱 
-Well, we've Android version here, Checkout the Android version of this app <a href="https://github.com/Spikeysanju/Expenso">Expenso</a>
-
-<br />
-
-## Contribute
-If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/sameersyd/Expenso/blob/main/CONTRIBUTION.md). 
-
-<br />
-
-## Donation
-If this project helped you reduce time to develop, you can buy me a cup of coffee :) 
-
-<br />
-
-<a href="https://www.buymeacoffee.com/sameersyd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## License
-```
-    Apache 2.0 License
-
-
-    Copyright 2021 Sameer Nawaz
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-```
